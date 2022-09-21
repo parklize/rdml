@@ -1,0 +1,7 @@
+timm
+torch==1.12.0
+torchaudio
+torchmetrics
+torchvision
+pandas
+sklearn

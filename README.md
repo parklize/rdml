@@ -1,6 +1,6 @@
 # Renyi Divergence Deep Mutual Learning
 
-This repository contains the implementation for paper - "Renyi Divergence Deep Mutual Learning" under review at [SDM2023](https://www.siam.org/conferences/cm/conference/sdm23).
+This repository contains the implementation for paper - "Renyi Divergence Deep Mutual Learning".
 
 ## Folder structure
 
